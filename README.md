@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I’m currently learning javascript
+ I’m looking to collaborate on intresting projects
+How to reach me : linkedin https://www.linkedin.com/in/riston-rodrigues-08a32224b/
+Pronouns:he/him
+ 
 <!--
 **RISTONRODZ/RISTONRODZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
