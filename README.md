@@ -1,7 +1,7 @@
 ## Hi there 👋
-I’m currently learning javascript
- I’m looking to collaborate on intresting projects
-How to reach me : linkedin https://www.linkedin.com/in/riston-rodrigues-08a32224b/
+I’m currently learning javascript<br>
+I’m looking to collaborate on intresting projects<br>
+How to reach me : linkedin https://www.linkedin.com/in/riston-rodrigues-08a32224b/ <br>
 Pronouns:he/him
  
 <!--
