@@ -2,7 +2,7 @@
 I’m currently learning javascript<br>
 I’m looking to collaborate on intresting projects<br>
 How to reach me : linkedin https://www.linkedin.com/in/riston-rodrigues-08a32224b/ <br>
-Pronouns:he/him
+
  
 <!--
 **RISTONRODZ/RISTONRODZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
