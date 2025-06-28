@@ -11,6 +11,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISTONRODZ&theme=dark&hide_border=false&layout=compact)
 
+### Contributions
+![Snake animation](https://raw.githubusercontent.com/RISTONRODZ/RISTONRODZ/output/ocean.gif)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
