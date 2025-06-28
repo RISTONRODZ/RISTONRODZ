@@ -1,36 +1,22 @@
-### Hi there 👋 I'm Riston Rodrigues
+# 💫 About Me:
+🚀 Android | Web | Cloud | AI Enthusiast<br>Always building, always learning—whether it's mobile apps, web experiences, or cloud-powered AI.<br><br>🧠 Student & Self‑Learner<br>Continuously exploring JavaScript, React, and modern cloud technologies, driven by a passion for new frameworks and tools.<br><br>🤝 Team Player & Communicator<br>Engage in issue discussions, give structured feedback, and suggest UI improvements—helping projects evolve through collaboration.<br> <br>📬 Let’s Connect<br>I’m open to:<br><br>Contributions – Feature enhancements, bug fixes, UI/UX improvements<br><br>Mentorship & Learning – Pair programming, code reviews, skill exchange<br><br>Networking – Chatting about best practices, new technologies, or open-source trends<br><br>Feel free to reach out on GitHub or via email—I’d love to collaborate!
 
-I'm a passionate **developer and explorer of web, Android, cloud, and AI technologies**. I love building creative projects and diving into new challenges to keep growing.
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISTONRODZ&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-💻 **What I'm Working On:**
-- Enhancing my JavaScript skills with real-world projects
-- Building interactive web apps using HTML, CSS, and JS
-- Diving deeper into cloud services and mobile development
+![GitHub Streak](https://streak-stats.demolab.com?user=RISTONRODZ&theme=dark&hide_border=false)
 
-🚀 **My Recent Projects:**
-- 🎧 [Spotify Clone](https://github.com/RISTONRODZ/spotify_clone): A basic UI mockup using HTML/CSS/JS
-- 🐱 [Pokémon Cards](https://github.com/RISTONRODZ/pokemon_cards): Fun project using the PokéAPI
-- 🧠 [Programming Quiz App](https://github.com/RISTONRODZ/Programming-Quiz-App): Tests your coding knowledge with random trivia
-- ✅ [To-Do List](https://github.com/RISTONRODZ/Simple_to_do_list): Lightweight and simple task manager
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISTONRODZ&theme=dark&hide_border=false&layout=compact)
 
-🛠️ **Tech Stack:**
-- Languages: JavaScript, Java, HTML5, CSS3
-- Tools & Frameworks: VS Code, Git, APIs
-- Learning: React, Firebase, cloud deployment, Azure
-
-🌱 **Currently Learning:**
-- Modern JavaScript (ES6+)
-- DOM manipulation techniques
-- React and frontend frameworks
-- Cloud concepts on Azure
-
-📫 **Let's Connect:**
-- LinkedIn: [riston-rodrigues](https://www.linkedin.com/in/riston-rodrigues/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RISTONRODZ)
 
-📊 **GitHub Stats** *(you can optionally use shields.io badges or GitHub-readme-stats widgets for flair)*
 
-Thanks for visiting! 😊 Happy coding!
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
