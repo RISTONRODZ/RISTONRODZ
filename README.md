@@ -13,7 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISTONRODZ&theme=dark&hide_border=false&layout=compact)
 
 ### Contributions
-![Snake animation](https://raw.githubusercontent.com/RISTONRODZ/RISTONRODZ/output/ocean.gif)
+<img src="https://raw.githubusercontent.com/RISTONRODZ/RISTONRODZ/output/ocean.gif" alt="Snake animation" width="100%" />
+
 
 
 ### ✍️ Random Dev Quote
