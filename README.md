@@ -1,31 +1,35 @@
-# 💫 About Me
+# About Me
 
-🚀 **Android | Web | Cloud | AI Enthusiast** Always building, always learning—whether it's mobile apps, web experiences, or cloud-powered AI.
+I am a software developer and engineering student specializing in robust backend development. I spend most of my time writing Java, configuring Spring Boot services, and connecting them to React frontends.
 
-🧠 **Student & Self-Learner** Continuously exploring JavaScript, React, and modern cloud technologies, driven by a passion for new frameworks and tools.
+- What I do: Build secure web applications, design REST APIs, and optimize SQL databases.
+- What I'm learning: Advancing my knowledge in Spring Security and exploring cloud deployment workflows.
+- Next on my Radar: Exploring containerization with Docker, microservices architecture, and cloud infrastructure.
+- What I'm looking for: Full-stack or backend internship opportunities and open-source collaborations.
 
-🤝 **Team Player & Communicator** Engage in issue discussions, give structured feedback, and suggest UI improvements—helping projects evolve through collaboration.
+Let's connect on LinkedIn or drop me an email if you want to collaborate!
 
-📬 **Let’s Connect** I’m open to:
-- **Contributions** – Feature enhancements, bug fixes, UI/UX improvements.
-- **Mentorship & Learning** – Pair programming, code reviews, skill exchange.
-- **Networking** – Chatting about best practices, new technologies, or open-source trends.
 
-Feel free to reach out on GitHub or via email—I’d love to collaborate!
 
----
+# Tech Stack
 
-# 💻 Tech Stack
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
 
-# 📊 GitHub Stats
+
+
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RISTONRODZ&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
@@ -33,22 +37,16 @@ Feel free to reach out on GitHub or via email—I’d love to collaborate!
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RISTONRODZ&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
 
----
-
-### 📈 Activity
+### Activity
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RISTONRODZ&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
-### 🐍 Contributions (Snake)
+### Contributions
 <img src="https://raw.githubusercontent.com/RISTONRODZ/RISTONRODZ/output/ocean.gif" alt="Snake animation" width="100%" />
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+
