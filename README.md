@@ -2,14 +2,15 @@
 
 I am a software developer and engineering student specializing in robust backend development. I spend most of my time writing Java, configuring Spring Boot services, and connecting them to React frontends.
 
-- What I do: Build secure web applications, design REST APIs, and optimize SQL databases.
-- What I'm learning: Advancing my knowledge in Spring Security and exploring cloud deployment workflows.
-- Next on my Radar: Exploring containerization with Docker, microservices architecture, and cloud infrastructure.
-- What I'm looking for: Full-stack or backend internship opportunities and open-source collaborations.
+- **What I do:** Build secure web applications, design REST APIs, and optimize SQL databases.
+- **What I'm learning:** Advancing my knowledge in Spring Security and exploring cloud deployment workflows.
+- **Next on my radar:** An exploration of containerization with Docker, microservices architecture, and cloud infrastructure.
+- **What I'm looking for:** Full-stack or backend internship opportunities and open-source collaborations.
 
 Let's connect on LinkedIn or drop me an email if you want to collaborate!
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ristonrodrigues/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ristonrodz1@gmail.com)
 
 # Tech Stack
 
